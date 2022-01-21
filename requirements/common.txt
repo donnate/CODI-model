@@ -7,4 +7,4 @@ pydicom==1.4.2
 tqdm==4.45.0
 matplotlib==3.2.1
 Pillow==7.1.2
-Ipython==7.13.0
+Ipython==7.16.3
